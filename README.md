@@ -1,5 +1,4 @@
 
-## Olá
 - 🔭 Cursando: Ciência da Computação | UTFPR
 - 🌱 GitHub voltado para trablhos acadêmicos
 ##
